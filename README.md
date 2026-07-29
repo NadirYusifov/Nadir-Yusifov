@@ -1,4 +1,4 @@
-<h1 align="center">Salam Aleykum I'm Nadir Yusifov</h1>
+<h1 align="center">Hello, I'm Nadir Yusifov</h1>
 
 <h3 align="center">I'm Frontend Developer from Azerbaijan 🇦🇿</h3>
 
